@@ -1,0 +1,52 @@
+* {
+    color: blue;
+    font-size: x-large;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+span {
+    color:rgb(20, 195, 7);
+}
+
+p{
+    color:brown 
+}
+
+p {
+    color: aqua;
+    border: 2px solid black;
+}
+
+.rojo{
+    color: red;
+    font-size: medium;
+}
+
+#violeta, #violeta2{
+    color: violet;
+    font-size: 35px;
+    background-color: darkcyan;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+img {
+    width: 600px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    color: red;
+    font-size: 35px;
+}
+
+h1:hover{
+    color: red;
+}
